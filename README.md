@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ANTLR, machine learning algorithms, etc.
 - 💞️ I’m looking to collaborate on machine learning related papers.
 - 📫 ziaul1891@gmail.com
+- Google Scholar: http://scholar.google.com/citations?user=E1sjt-AAAAAJ&hl=en
 
 <!---
 ziaul1891/ziaul1891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
