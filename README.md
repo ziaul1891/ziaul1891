@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dewan Ziaul Karim
-- 👀 I’m interested in Machine Learning and Software Engineering
-- 🌱 I’m currently learning ANTLR, machine learning algorithms, etc.
-- 💞️ I’m looking to collaborate on machine learning related papers.
+- 👀 I’m interested in Computer Vision and Machine Learning.
+- 🌱 I’m currently exploring vision transformers.
+- 💞️ I’m looking to collaborate on compurer vision related papers.
 - 📫 ziaul1891@gmail.com
 - Google Scholar: http://scholar.google.com/citations?user=E1sjt-AAAAAJ&hl=en
 
